@@ -1,0 +1,7 @@
+apiVersion: useless.container.training/v1alpha1
+kind: Machine
+metadata:
+  name: machine-sample1
+spec:
+  # Add fields here
+  SwitchPosition: up
